@@ -16,7 +16,8 @@
     "react-router-dom": "^6.14.1",
     "react-scripts": "^5.0.1",
     "redux-devtools-extension": "^2.13.9",
-    "typescript": "^5.1.6"
+    "typescript": "^5.1.6",
+    "web-vitals": "^3.3.2"
   },
   "name": "redux_toolkit",
   "description": "[![Build status](https://ci.appveyor.com/api/projects/status/f6g15rf3uxel58no/branch/master?svg=true)](https://ci.appveyor.com/project/maria-namira/redux-toolkit/branch/master)",
